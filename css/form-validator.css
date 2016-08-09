@@ -1,0 +1,27 @@
+.required-label:before {
+    color: #FF0000;
+    content: "*";
+}
+
+.has-error {
+	border-color: red !important;
+	outline:none;
+}
+.error-msg {
+	margin-top: 5px;
+	color:red;
+}
+.with-errors {
+	margin-top: -34px;
+	color: red;
+	font-size: .8em;
+}
+
+i.glyphicon {
+	z-index: 2;
+	text-align: center;
+	pointer-events: none;
+	color:red;
+	display: inline;
+	font-weight:bold;
+}
