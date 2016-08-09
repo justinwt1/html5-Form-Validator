@@ -1,11 +1,9 @@
-# html5-Form-Validator
+# HTML5 Form Validator
 html5 form validator for bootstrap and non-bootstrap projects
 
 This is a simple and very lighweight JQuery plug-in for an html5 form validator.
 The plugin has separate components for both bootstrap and non-bootstrap projects.
 
-
-# HTML5 Form Validator
 I have found many form validators to be overly complex or difficult to customize so I decided to create my own.
 This is a simple and very lighweight JQuery plugin for an html5 form validator. The plug-in has separate components for both bootstrap and non-bootstrap webpages. 
 It is very easy to use and offers simple customization features. Works using html5 "pattern" attribute (regex) or custom js functions
